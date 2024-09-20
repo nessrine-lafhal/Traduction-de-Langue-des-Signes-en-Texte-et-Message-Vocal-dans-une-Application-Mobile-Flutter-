@@ -35,3 +35,10 @@ Rôle dans le projet : Divers packages sont intégrés pour améliorer les fonct
 # Conclusion
 Ce projet innovant a pour but de rendre la communication plus accessible pour les personnes sourdes et malentendantes. En utilisant des technologies modernes comme Flutter et des techniques avancées de machine learning, nous visons à créer une application qui non seulement répond aux besoins des utilisateurs, mais qui ouvre également la voie à des améliorations futures dans ce domaine.
 
+
+# test
+
+![test1](https://github.com/nessrine-lafhal/Traduction-de-Langue-des-Signes-en-Texte-et-Message-Vocal-dans-une-Application-Mobile-Flutter-/blob/master/pic1.png)
+
+
+
